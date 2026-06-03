@@ -4,7 +4,7 @@
 
 # Aryaman Srivastava
 
-I build backend-heavy AI systems — document intelligence pipelines, multi-agent orchestrators, hybrid rule+model architectures. My focus is on the engineering layer: explainable outputs, structured schemas, and pipelines where every decision is traceable.
+I build backend-heavy AI systems which include document intelligence pipelines, multi-agent orchestrators, hybrid rule+model architectures. My focus is on the engineering layer: explainable outputs, structured schemas, and pipelines where every decision is traceable.
 
 Interned at **SFI Data** (Amsterdam). Won **Neurax Hackathon** —  1st place.
 
